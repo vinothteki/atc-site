@@ -2,6 +2,10 @@
   color: #9b9b9c;
   font-weight: 900;
 }
+.nav-link.menu:hover {
+  color: #000;
+  font-weight: 900;
+}
 .nav-link.contactno {
   color: #000;
   font-weight: 900;
